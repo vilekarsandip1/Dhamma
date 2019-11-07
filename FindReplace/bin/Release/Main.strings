@@ -1,0 +1,867 @@
+
+/* Class = "UILabel"; text = "Locations"; ObjectID = "02B-Q1-GFp"; */
+"02B-Q1-GFp.text" = "地點";
+
+/* Class = "UINavigationItem"; title = "My Logbook"; ObjectID = "0LG-ip-XPW"; */
+"0LG-ip-XPW.title" = "我的日誌簿";
+
+/* Class = "UIViewController"; title = "Questions & Answers"; ObjectID = "0Mc-pN-jVf"; */
+"0Mc-pN-jVf.title" = "問與答";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "0Xe-cP-iee"; */
+"0Xe-cP-iee.title" = "Back";<<<<<<<<<<<<<<<<<<<<<<<
+
+/* Class = "UILabel"; text = "2-Day"; ObjectID = "0b1-iC-IQI"; */
+"0b1-iC-IQI.text" = "二日課程";
+
+/* Class = "UILabel"; text = "LabelRow2"; ObjectID = "1Qb-FX-owp"; */
+"1Qb-FX-owp.text" = "LabelRow2";<<<<<<<<<<<<<<<<<<<<<<
+
+/* Class = "UILabel"; text = "https://discourses.dhamma.org/recordings?mobile_app=true&languages%5Biso_code%5D=en"; ObjectID = "1tH-Ro-oTm"; */
+"1tH-Ro-oTm.text" = "https://discourses.dhamma.org/recordings?mobile_app=true&languages%5Biso_code%5D=en";<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+/* Class = "UILabel"; text = "Enable Log Sittings"; ObjectID = "2ah-47-y7e"; */
+"2ah-47-y7e.text" = "啟用日誌設定";
+
+/* Class = "UILabel"; text = "Find information about Vipassana Meditation"; ObjectID = "2cr-HO-14D"; */
+"2cr-HO-14D.text" = "尋找內觀靜坐的相關資料";
+
+/* Class = "UITableViewController"; title = "Audio Selection"; ObjectID = "2rf-fH-ktj"; */
+"2rf-fH-ktj.title" = "Audio Selection";
+
+/* Class = "UINavigationItem"; title = "Audio Recordings"; ObjectID = "2u9-71-Vjd"; */
+"2u9-71-Vjd.title" = "Audio Recordings";
+
+/* Class = "UILabel"; text = "SittingTitleLabel"; ObjectID = "2x9-vC-IH6"; */
+"2x9-vC-IH6.text" = "SittingTitleLabel";
+
+/* Class = "UIButton"; normalTitle = "Forgot password"; ObjectID = "3Sb-jH-9ew"; */
+"3Sb-jH-9ew.normalTitle" = "Forgot password";
+
+/* Class = "UILabel"; text = "Vipassana Meditation"; ObjectID = "3vH-Z1-EYZ"; */
+"3vH-Z1-EYZ.text" = "Vipassana Meditation";
+
+/* Class = "UILabel"; text = "Vipassana Meditation"; ObjectID = "3vc-WN-b4h"; */
+"3vc-WN-b4h.text" = "Vipassana Meditation";
+
+/* Class = "UITabBarController"; title = "Vipassana Meditation"; ObjectID = "49e-Tb-3d3"; */
+"49e-Tb-3d3.title" = "Vipassana Meditation";
+
+/* Class = "UILabel"; text = "SittingTitleLabel"; ObjectID = "4ZA-K2-KOF"; */
+"4ZA-K2-KOF.text" = "SittingTitleLabel";
+
+/* Class = "UILabel"; text = "Dana"; ObjectID = "4bx-Fm-dzN"; */
+"4bx-Fm-dzN.text" = "Dana";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/locations/mobile_directory?raw"; ObjectID = "4jT-vI-2xa"; */
+"4jT-vI-2xa.text" = "https://www.dhamma.org/en/locations/mobile_directory?raw";
+
+/* Class = "UINavigationItem"; title = "Discourse recordings"; ObjectID = "50g-Ko-ewv"; */
+"50g-Ko-ewv.title" = "Discourse recordings";
+
+/* Class = "UINavigationItem"; title = "Language Selection"; ObjectID = "52k-Bo-lc7"; */
+"52k-Bo-lc7.title" = "Language Selection";
+
+/* Class = "UINavigationItem"; title = "Art of Living"; ObjectID = "5OB-Mi-nRI"; */
+"5OB-Mi-nRI.title" = "Art of Living";
+
+/* Class = "UILabel"; text = "Old Student Guide"; ObjectID = "5WV-60-k1E"; */
+"5WV-60-k1E.text" = "Old Student Guide";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "5fr-Wr-GTI"; */
+"5fr-Wr-GTI.normalTitle" = "Login";
+
+/* Class = "UITabBarItem"; title = "Locations"; ObjectID = "6CT-Jv-e8U"; */
+"6CT-Jv-e8U.title" = "Locations";
+
+/* Class = "UILabel"; text = "Welcome to the official Dhamma.org App for Vipassana Meditation as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin. The purpose is to allow new students to learn about Vipassana Meditation as well as discover and apply for courses."; ObjectID = "6I3-qM-pGE"; */
+"6I3-qM-pGE.text" = "Welcome to the official Dhamma.org App for Vipassana Meditation as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin. The purpose is to allow new students to learn about Vipassana Meditation as well as discover and apply for courses.";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "6bJ-gk-4QV"; */
+"6bJ-gk-4QV.title" = "Back";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/goenka?raw"; ObjectID = "6d2-8Y-Tcx"; */
+"6d2-8Y-Tcx.text" = "https://www.dhamma.org/en/mobile/goenka?raw";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "6dy-2A-hof"; */
+"6dy-2A-hof.normalTitle" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "Find information about Vipassana Meditation"; ObjectID = "6eA-cI-Ecj"; */
+"6eA-cI-Ecj.text" = "Find information about Vipassana Meditation";
+
+/* Class = "UILabel"; text = "Please note that after recent iOS upgrades the facility to listen to discourses online might not work as expected.  We are actively working on a fix.  We apologize for the inconvenience."; ObjectID = "6or-BL-tw5"; */
+"6or-BL-tw5.text" = "Please note that after recent iOS upgrades the facility to listen to discourses online might not work as expected.  We are actively working on a fix.  We apologize for the inconvenience.";
+
+/* Class = "UIViewController"; title = "Discourse Summaries"; ObjectID = "74C-2h-Rix"; */
+"74C-2h-Rix.title" = "Discourse Summaries";
+
+/* Class = "UILabel"; text = "Mr. S.N. Goenka"; ObjectID = "7QD-Ii-erF"; */
+"7QD-Ii-erF.text" = "Mr. S.N. Goenka";
+
+/* Class = "UILabel"; accessibilityLabel = "Vipassana Meditation"; ObjectID = "7Vb-Wj-uGp"; */
+"7Vb-Wj-uGp.accessibilityLabel" = "Vipassana Meditation";
+
+/* Class = "UILabel"; text = "Vipassana Meditation"; ObjectID = "7Vb-Wj-uGp"; */
+"7Vb-Wj-uGp.text" = "Vipassana Meditation";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "7p5-Vm-VCr"; */
+"7p5-Vm-VCr.normalTitle" = "Privacy Policy";
+
+/* Class = "UINavigationController"; title = "OSGuideNav"; ObjectID = "87k-xB-8Yu"; */
+"87k-xB-8Yu.title" = "OSGuideNav";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/courses/mobile_search?raw"; ObjectID = "8F9-ei-oh4"; */
+"8F9-ei-oh4.text" = "https://www.dhamma.org/en/courses/mobile_search?raw";
+
+/* Class = "UILabel"; text = "Courses"; ObjectID = "8K8-8i-k6E"; */
+"8K8-8i-k6E.text" = "Courses";
+
+/* Class = "UIViewController"; title = "Home"; ObjectID = "8cV-mS-EDn"; */
+"8cV-mS-EDn.title" = "Home";
+
+/* Class = "UINavigationItem"; title = "Vipassana Meditation"; ObjectID = "8dG-mM-P51"; */
+"8dG-mM-P51.title" = "Vipassana Meditation";
+
+/* Class = "UIViewController"; title = "What is Vipassana?"; ObjectID = "8eT-2J-iln"; */
+"8eT-2J-iln.title" = "What is Vipassana?";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "8of-6G-GEb"; */
+"8of-6G-GEb.title" = "Back";
+
+/* Class = "UILabel"; text = "Welcome to the official Dhamma.org App for Vipassana Meditation as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin. The purpose is to support the daily practice of Old Students in this tradition and further their lifelong development in Dhamma."; ObjectID = "97w-QM-8iM"; */
+"97w-QM-8iM.text" = "Welcome to the official Dhamma.org App for Vipassana Meditation as taught by S.N. Goenka in the tradition of Sayagyi U Ba Khin. The purpose is to support the daily practice of Old Students in this tradition and further their lifelong development in Dhamma.";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "98E-RI-7OQ"; */
+"98E-RI-7OQ.text" = "Privacy Policy";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "9KS-bW-eTg"; */
+"9KS-bW-eTg.title" = "Home";
+
+/* Class = "UITableViewController"; title = "About this App"; ObjectID = "9Tb-EP-ZMP"; */
+"9Tb-EP-ZMP.title" = "About this App";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "9hx-c7-f69"; */
+"9hx-c7-f69.title" = "Back";
+
+/* Class = "UITextField"; placeholder = "Name of the teacher"; ObjectID = "9lR-Lf-gdY"; */
+"9lR-Lf-gdY.placeholder" = "Name of the teacher";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile_maps?raw"; ObjectID = "9pf-Po-kjc"; */
+"9pf-Po-kjc.text" = "https://www.dhamma.org/en/mobile_maps?raw";
+
+/* Class = "UIViewController"; title = "Dhamma Service"; ObjectID = "AQ5-VZ-8FT"; */
+"AQ5-VZ-8FT.title" = "Dhamma Service";
+
+/* Class = "UITableViewController"; title = "Language Selection"; ObjectID = "AiM-r9-8oV"; */
+"AiM-r9-8oV.title" = "Language Selection";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "B1i-EW-COo"; */
+"B1i-EW-COo.title" = "Back";
+
+/* Class = "UITableViewSection"; headerTitle = "Chantings"; ObjectID = "BNS-am-DWK"; */
+"BNS-am-DWK.headerTitle" = "Chantings";
+
+/* Class = "UILabel"; text = "Questions & Answers"; ObjectID = "BeG-TS-yhB"; */
+"BeG-TS-yhB.text" = "Questions & Answers";
+
+/* Class = "UILabel"; text = "LabelRow4"; ObjectID = "Bgs-qp-85z"; */
+"Bgs-qp-85z.text" = "LabelRow4";
+
+/* Class = "UILabel"; text = "Download and play English only or bilingual Group Sitting Recordings. Set the device in Airplane Mode to avoid interruptions."; ObjectID = "Bth-kV-MaY"; */
+"Bth-kV-MaY.text" = "Download and play English only or bilingual Group Sitting Recordings. Set the device in Airplane Mode to avoid interruptions.";
+
+/* Class = "UILabel"; text = "LabelRow2"; ObjectID = "CG4-eU-hdD"; */
+"CG4-eU-hdD.text" = "LabelRow2";
+
+/* Class = "UILabel"; text = "Logbook"; ObjectID = "CVc-Pa-F7N"; */
+"CVc-Pa-F7N.text" = "Logbook";
+
+/* Class = "UINavigationController"; title = "LocationsNav"; ObjectID = "Ct5-fS-QFg"; */
+"Ct5-fS-QFg.title" = "LocationsNav";
+
+/* Class = "UILabel"; text = "LabelRow3"; ObjectID = "DF5-vB-XDO"; */
+"DF5-vB-XDO.text" = "LabelRow3";
+
+/* Class = "UILabel"; text = "Vipassana Meditation"; ObjectID = "DRO-dV-38h"; */
+"DRO-dV-38h.text" = "Vipassana Meditation";
+
+/* Class = "UILabel"; text = "What is Vipassana?"; ObjectID = "Deb-64-YhS"; */
+"Deb-64-YhS.text" = "What is Vipassana?";
+
+/* Class = "UILabel"; text = "Logbook needs to be enabled from Settings"; ObjectID = "Ekk-yC-wXb"; */
+"Ekk-yC-wXb.text" = "Logbook needs to be enabled from Settings";
+
+/* Class = "UILabel"; text = "More recordings ..."; ObjectID = "FP2-oH-shN"; */
+"FP2-oH-shN.text" = "More recordings ...";
+
+/* Class = "UITableViewController"; title = "About this App"; ObjectID = "FSC-gZ-eIa"; */
+"FSC-gZ-eIa.title" = "About this App";
+
+/* Class = "UIViewController"; title = "Play Selected Sitting"; ObjectID = "FdC-Is-ugq"; */
+"FdC-Is-ugq.title" = "Play Selected Sitting";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "G6J-o4-ywf"; */
+"G6J-o4-ywf.title" = "Back";
+
+/* Class = "UILabel"; text = "Locations"; ObjectID = "G9v-ck-qKV"; */
+"G9v-ck-qKV.text" = "Locations";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/code?raw"; ObjectID = "Gg8-Mp-1A2"; */
+"Gg8-Mp-1A2.text" = "https://www.dhamma.org/en/mobile/code?raw";
+
+/* Class = "UINavigationItem"; title = "Code of Conduct for Dhamma Servers"; ObjectID = "GjQ-HH-T1O"; */
+"GjQ-HH-T1O.title" = "Code of Conduct for Dhamma Servers";
+
+/* Class = "UILabel"; text = "7-Day for Teenagers"; ObjectID = "Gpt-tA-OBa"; */
+"Gpt-tA-OBa.text" = "7-Day for Teenagers";
+
+/* Class = "UIImageView"; accessibilityLabel = "Wheel"; ObjectID = "Gpv-5s-Aos"; */
+"Gpv-5s-Aos.accessibilityLabel" = "Wheel";
+
+/* Class = "UILabel"; text = "SittingTitle"; ObjectID = "Gxy-RR-GQG"; */
+"Gxy-RR-GQG.text" = "SittingTitle";
+
+/* Class = "UILabel"; text = "Art of Living"; ObjectID = "HMu-iY-Nyh"; */
+"HMu-iY-Nyh.text" = "Art of Living";
+
+/* Class = "UINavigationController"; title = "CoursesNav"; ObjectID = "HXT-U2-Uty"; */
+"HXT-U2-Uty.title" = "CoursesNav";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "HoS-zL-Z2G"; */
+"HoS-zL-Z2G.text" = "Password";
+
+/* Class = "UILabel"; text = "LabelRow3"; ObjectID = "Hoh-Qc-eTp"; */
+"Hoh-Qc-eTp.text" = "LabelRow3";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/courses/mobile_glossary?raw"; ObjectID = "IA5-0u-rr8"; */
+"IA5-0u-rr8.text" = "https://www.dhamma.org/zh-HANT/courses/mobile_glossary?raw";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "IBf-Ml-e5O"; */
+"IBf-Ml-e5O.title" = "Back";
+
+/* Class = "UILabel"; text = "Search and apply for Vipassana Meditation courses"; ObjectID = "IXU-Xd-wXo"; */
+"IXU-Xd-wXo.text" = "搜尋並申請內觀靜坐課程";
+
+/* Class = "UILabel"; text = "Dhamma Service"; ObjectID = "IZd-sb-AhE"; */
+"IZd-sb-AhE.text" = "法工服務";
+
+/* Class = "UILabel"; text = "My Logbook"; ObjectID = "IgY-Cu-TsZ"; */
+"IgY-Cu-TsZ.text" = "我的日誌簿";
+
+/* Class = "UINavigationItem"; title = "Language Selection"; ObjectID = "J1U-XS-Doe"; */
+"J1U-XS-Doe.title" = "選擇語言";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/service?raw"; ObjectID = "J9v-sd-dZ9"; */
+"J9v-sd-dZ9.text" = "https://www.dhamma.org/zh-HANT/mobile/service?raw";
+
+/* Class = "UINavigationItem"; title = "Vipassana Meditation"; ObjectID = "JB0-kp-LsA"; */
+"JB0-kp-LsA.title" = "內 觀 靜 坐";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "JU2-h5-fOT"; */
+"JU2-h5-fOT.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Continue as New Student"; ObjectID = "Jje-67-0tR"; */
+"Jje-67-0tR.normalTitle" = "以新學員身份繼續";
+
+/* Class = "UILabel"; text = "LabelRow3"; ObjectID = "Jm3-m5-OhG"; */
+"Jm3-m5-OhG.text" = "LabelRow3";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "JpO-T8-gTF"; */
+"JpO-T8-gTF.text" = "忘記密碼";
+
+/* Class = "UILabel"; text = "Group Sitting Recordings"; ObjectID = "KIo-SP-oVv"; */
+"KIo-SP-oVv.text" = "共修錄音";
+
+/* Class = "UILabel"; text = "Your sittings will be automatically logged"; ObjectID = "KWy-sB-mdd"; */
+"KWy-sB-mdd.text" = "將自動存入您的靜坐紀錄";
+
+/* Class = "UILabel"; text = "LabelRow2"; ObjectID = "KXD-E2-uOg"; */
+"KXD-E2-uOg.text" = "LabelRow2";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "KdC-gY-ZlY"; */
+"KdC-gY-ZlY.title" = "Back";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "L1B-o0-In9"; */
+"L1B-o0-In9.title" = "Back";
+
+/* Class = "UILabel"; text = "LabelRow2"; ObjectID = "LCD-o5-SfC"; */
+"LCD-o5-SfC.text" = "LabelRow2";
+
+/* Class = "UILabel"; text = "3-Day"; ObjectID = "LUX-DR-epv"; */
+"LUX-DR-epv.text" = "三日課程";
+
+/* Class = "UILabel"; text = "LabelRow4"; ObjectID = "Lqc-Pj-aa9"; */
+"Lqc-Pj-aa9.text" = "LabelRow4";
+
+/* Class = "UILabel"; text = "1 hr 5 min"; ObjectID = "M5f-6R-kE3"; */
+"M5f-6R-kE3.text" = "\b１小時５分";
+
+/* Class = "UILabel"; text = "Old students are those who have completed a 10-day Vipassana Meditation course with S.N. Goenka or his Assistant Teachers. Old students have the opportunity to provide Dhamma Service at the courses listed."; ObjectID = "M7v-yR-5EY"; */
+"M7v-yR-5EY.text" = "\u003cp\u003e舊生是指那些已成功完成一期由葛印卡老師或他所委任的助理老師指導的十日內觀課程的學員。舊生有機會在表列的課程中提供法服務。\u003c/p\u003e";
+
+/* Class = "UINavigationItem"; title = "Vipassana Meditation"; ObjectID = "MFb-fS-cSZ"; */
+"MFb-fS-cSZ.title" = "內 觀 靜 坐";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Mqh-UD-gwR"; */
+"Mqh-UD-gwR.title" = "Back";
+
+/* Class = "UITableViewController"; title = "Vipassana Meditation"; ObjectID = "N3G-uT-BIn"; */
+"N3G-uT-BIn.title" = "內 觀 靜 坐";
+
+/* Class = "UITabBarItem"; title = "Group Sittings"; ObjectID = "NHi-b0-FtK"; */
+"NHi-b0-FtK.title" = "共修";
+
+/* Class = "UILabel"; text = "SittingTitleLabel"; ObjectID = "NJy-mh-NpE"; */
+"NJy-mh-NpE.text" = "SittingTitleLabel";<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+/* Class = "UITableViewController"; title = "NSMore"; ObjectID = "Ner-vj-GVU"; */
+"Ner-vj-GVU.title" = "NSMore";
+
+/* Class = "UIButton"; normalTitle = "Version 1.2.0"; ObjectID = "Ng5-bO-R6z"; */
+"Ng5-bO-R6z.normalTitle" = "版本  1.2.0";
+
+/* Class = "UILabel"; text = "LabelRow3"; ObjectID = "Ny1-ME-bYA"; */
+"Ny1-ME-bYA.text" = "LabelRow3";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "OHX-fX-7gs"; */
+"OHX-fX-7gs.title" = "Back";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/art?raw"; ObjectID = "OT6-4b-MAp"; */
+"OT6-4b-MAp.text" = "https://www.dhamma.org/zh-HANT/mobile/art?raw";
+
+/* Class = "UITableViewController"; title = "Forgot Credentials"; ObjectID = "OhX-lU-h0h"; */
+"OhX-lU-h0h.title" = "忘記密碼";
+
+/* Class = "UINavigationItem"; title = "Discourse Summaries"; ObjectID = "OlO-DI-CYp"; */
+"OlO-DI-CYp.title" = "開示集要";
+
+/* Class = "UINavigationItem"; title = "Old Student Guide"; ObjectID = "Ozt-WC-Pid"; */
+"Ozt-WC-Pid.title" = "Old Student Guide";
+
+/* Class = "UILabel"; text = "More chantings ..."; ObjectID = "PGq-Ta-5AI"; */
+"PGq-Ta-5AI.text" = "More chantings ...";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Pq8-Bb-WxW"; */
+"Pq8-Bb-WxW.title" = "Back";
+
+/* Class = "UILabel"; text = "LabelRow2"; ObjectID = "PvQ-Qp-gnM"; */
+"PvQ-Qp-gnM.text" = "LabelRow2";
+
+/* Class = "UILabel"; text = "Morning Chantings"; ObjectID = "Q4i-gM-hN0"; */
+"Q4i-gM-hN0.text" = "Morning Chantings";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "QNZ-Lm-0fK"; */
+"QNZ-Lm-0fK.text" = "Settings";
+
+/* Class = "UILabel"; text = "LabelRow2"; ObjectID = "QnA-sG-NSX"; */
+"QnA-sG-NSX.text" = "LabelRow2";
+
+/* Class = "UILabel"; text = "About this App"; ObjectID = "Quo-fO-SZT"; */
+"Quo-fO-SZT.text" = "About this App";
+
+/* Class = "UILabel"; text = "Doha Chantings"; ObjectID = "RO6-A0-FhS"; */
+"RO6-A0-FhS.text" = "Doha Chantings";
+
+/* Class = "UITabBarItem"; title = "Locations"; ObjectID = "RmT-8s-qea"; */
+"RmT-8s-qea.title" = "Locations";
+
+/* Class = "UITableViewController"; title = "Audio Resources"; ObjectID = "Rpf-2w-Xfd"; */
+"Rpf-2w-Xfd.title" = "Audio Resources";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "Sw6-VG-NCs"; */
+"Sw6-VG-NCs.title" = "Settings";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "T04-SV-Fey"; */
+"T04-SV-Fey.title" = "Back";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "T9w-mv-hLS"; */
+"T9w-mv-hLS.text" = "About";
+
+/* Class = "UILabel"; text = "Your email address"; ObjectID = "TRl-bV-nST"; */
+"TRl-bV-nST.text" = "Your email address";
+
+/* Class = "UIViewController"; title = "My Logbook"; ObjectID = "TUO-NM-uxX"; */
+"TUO-NM-uxX.title" = "My Logbook";
+
+/* Class = "UINavigationItem"; title = "Sitting Selection"; ObjectID = "TYB-wp-WTG"; */
+"TYB-wp-WTG.title" = "Sitting Selection";
+
+/* Class = "UIViewController"; title = "Old Student Guide"; ObjectID = "Tof-ay-pTl"; */
+"Tof-ay-pTl.title" = "Old Student Guide";
+
+/* Class = "UILabel"; text = "LabelRow4"; ObjectID = "TtR-EI-hic"; */
+"TtR-EI-hic.text" = "LabelRow4";
+
+/* Class = "UINavigationItem"; title = "Language Selection"; ObjectID = "Txl-Rd-VFN"; */
+"Txl-Rd-VFN.title" = "Language Selection";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Ty7-II-0Pb"; */
+"Ty7-II-0Pb.title" = "Back";
+
+/* Class = "UIViewController"; title = "Discourse recordings"; ObjectID = "U2G-XK-uNB"; */
+"U2G-XK-uNB.title" = "Discourse recordings";
+
+/* Class = "UITableViewController"; title = "Language Selection"; ObjectID = "U5b-qG-ypd"; */
+"U5b-qG-ypd.title" = "Language Selection";
+
+/* Class = "UILabel"; text = "Courses"; ObjectID = "UFc-wE-M2a"; */
+"UFc-wE-M2a.text" = "Courses";
+
+/* Class = "UINavigationController"; title = "OSMoreNav"; ObjectID = "Ua3-tU-Weh"; */
+"Ua3-tU-Weh.title" = "OSMoreNav";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Uur-Nb-72l"; */
+"Uur-Nb-72l.title" = "Back";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "UwX-1A-aNk"; */
+"UwX-1A-aNk.text" = "Home";
+
+/* Class = "UIViewController"; title = "Privacy Policy"; ObjectID = "UyN-mA-huH"; */
+"UyN-mA-huH.title" = "Privacy Policy";
+
+/* Class = "UINavigationItem"; title = "Privacy Policy"; ObjectID = "Vfr-Px-vHT"; */
+"Vfr-Px-vHT.title" = "Privacy Policy";
+
+/* Class = "UINavigationItem"; title = "Chantings"; ObjectID = "Vps-dk-Rht"; */
+"Vps-dk-Rht.title" = "Chantings";
+
+/* Class = "UINavigationController"; title = "HomeNav"; ObjectID = "VyJ-ax-tkd"; */
+"VyJ-ax-tkd.title" = "HomeNav";
+
+/* Class = "UISegmentedControl"; WI7-7b-NkM.segmentTitles[0] = "Directory"; ObjectID = "WI7-7b-NkM"; */
+"WI7-7b-NkM.segmentTitles[0]" = "Directory";
+
+/* Class = "UISegmentedControl"; WI7-7b-NkM.segmentTitles[1] = "Maps"; ObjectID = "WI7-7b-NkM"; */
+"WI7-7b-NkM.segmentTitles[1]" = "Maps";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en-US/locations/mobile_events"; ObjectID = "WWX-Zf-OLg"; */
+"WWX-Zf-OLg.text" = "https://www.dhamma.org/en-US/locations/mobile_events";
+
+/* Class = "UITableViewController"; title = "Login"; ObjectID = "Wfc-rd-vZR"; */
+"Wfc-rd-vZR.title" = "Login";
+
+/* Class = "UITableViewController"; title = "Chanting Selection"; ObjectID = "Wh2-Yu-pog"; */
+"Wh2-Yu-pog.title" = "Chanting Selection";
+
+/* Class = "UIViewController"; title = "Dana"; ObjectID = "WiW-OL-KGZ"; */
+"WiW-OL-KGZ.title" = "Dana";
+
+/* Class = "UILabel"; text = "Date of previous course (month & year)"; ObjectID = "Wxn-R6-Mui"; */
+"Wxn-R6-Mui.text" = "Date of previous course (month & year)";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/home?raw"; ObjectID = "XKk-Xb-yJJ"; */
+"XKk-Xb-yJJ.text" = "https://www.dhamma.org/en/mobile/home?raw";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "XMR-D9-rdV"; */
+"XMR-D9-rdV.placeholder" = "Location";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "XRv-Wj-hP6"; */
+"XRv-Wj-hP6.text" = "Login";
+
+/* Class = "UINavigationItem"; title = "Old Student References"; ObjectID = "XYc-Gj-Yzx"; */
+"XYc-Gj-Yzx.title" = "Old Student References";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "XjC-1l-IqI"; */
+"XjC-1l-IqI.title" = "Back";
+
+/* Class = "UILabel"; text = "65:00"; ObjectID = "XlX-zC-ocC"; */
+"XlX-zC-ocC.text" = "65:00";
+
+/* Class = "UISegmentedControl"; Xm8-MO-PJq.segmentTitles[0] = "Search"; ObjectID = "Xm8-MO-PJq"; */
+"Xm8-MO-PJq.segmentTitles[0]" = "Search";
+
+/* Class = "UISegmentedControl"; Xm8-MO-PJq.segmentTitles[1] = "Glossary"; ObjectID = "Xm8-MO-PJq"; */
+"Xm8-MO-PJq.segmentTitles[1]" = "Glossary";
+
+/* Class = "UINavigationItem"; title = "Courses"; ObjectID = "Xpj-QI-u5h"; */
+"Xpj-QI-u5h.title" = "Courses";
+
+/* Class = "UITableViewController"; title = "OSMore"; ObjectID = "YHg-ZT-8xW"; */
+"YHg-ZT-8xW.title" = "OSMore";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/dscode?raw"; ObjectID = "YX8-A2-tDY"; */
+"YX8-A2-tDY.text" = "https://www.dhamma.org/en/mobile/dscode?raw";
+
+/* Class = "UILabel"; text = "Locations"; ObjectID = "YaO-9j-BnI"; */
+"YaO-9j-BnI.text" = "Locations";
+
+/* Class = "UIViewController"; title = "Courses"; ObjectID = "YgQ-in-OKK"; */
+"YgQ-in-OKK.title" = "Courses";
+
+/* Class = "UIViewController"; title = "Group Sitting Near Me"; ObjectID = "YhK-L6-ZUH"; */
+"YhK-L6-ZUH.title" = "Group Sitting Near Me";
+
+/* Class = "UILabel"; text = "Please provide details of your most recent full time course completed as a student. Please estimate if you do not know."; ObjectID = "ZCH-Pf-LBO"; */
+"ZCH-Pf-LBO.text" = "Please provide details of your most recent full time course completed as a student. Please estimate if you do not know.";
+
+/* Class = "UILabel"; text = "8888"; ObjectID = "ZEr-cX-tf9"; */
+"ZEr-cX-tf9.text" = "8888";
+
+/* Class = "UILabel"; text = "Vipassana Meditation"; ObjectID = "ZGp-vX-BaC"; */
+"ZGp-vX-BaC.text" = "Vipassana Meditation";
+
+/* Class = "UILabel"; text = "SittingRow2"; ObjectID = "ZKD-1a-zRU"; */
+"ZKD-1a-zRU.text" = "SittingRow2";
+
+/* Class = "UITableViewController"; title = "Select sitting for download"; ObjectID = "ZPy-yE-G9S"; */
+"ZPy-yE-G9S.title" = "Select sitting for download";
+
+/* Class = "UIViewController"; title = "Code of Discipline"; ObjectID = "ZeV-Eq-4YD"; */
+"ZeV-Eq-4YD.title" = "Code of Discipline";
+
+/* Class = "UILabel"; text = "Resources to guide and inspire your meditation practice"; ObjectID = "Zmn-EY-ubJ"; */
+"Zmn-EY-ubJ.text" = "Resources to guide and inspire your meditation practice";
+
+/* Class = "UILabel"; text = "10-Day"; ObjectID = "aNJ-jd-Llf"; */
+"aNJ-jd-Llf.text" = "10-Day";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aSv-Hv-Xsw"; */
+"aSv-Hv-Xsw.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Courses"; ObjectID = "al7-aC-4Ez"; */
+"al7-aC-4Ez.title" = "Courses";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "b0M-Sn-aJr"; */
+"b0M-Sn-aJr.title" = "Back";
+
+/* Class = "UILabel"; text = "Group Sitting Recordings"; ObjectID = "b5f-y2-xnJ"; */
+"b5f-y2-xnJ.text" = "Group Sitting Recordings";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/qanda?raw"; ObjectID = "baj-Kk-187"; */
+"baj-Kk-187.text" = "https://www.dhamma.org/en/mobile/qanda?raw";
+
+/* Class = "UILabel"; text = "LabelRow4"; ObjectID = "bcW-IV-Jsf"; */
+"bcW-IV-Jsf.text" = "LabelRow4";
+
+/* Class = "UILabel"; text = "Code of Conduct for Dhamma Servers"; ObjectID = "bp7-R8-APd"; */
+"bp7-R8-APd.text" = "Code of Conduct for Dhamma Servers";
+
+/* Class = "UIViewController"; title = "Mr. S.N. Goenka"; ObjectID = "buQ-Gu-vx6"; */
+"buQ-Gu-vx6.title" = "Mr. S.N. Goenka";
+
+/* Class = "UILabel"; text = "LabelRow3"; ObjectID = "bxE-nA-liw"; */
+"bxE-nA-liw.text" = "LabelRow3";
+
+/* Class = "UINavigationItem"; title = "Mr. S.N. Goenka"; ObjectID = "bz7-e7-7eD"; */
+"bz7-e7-7eD.title" = "Mr. S.N. Goenka";
+
+/* Class = "UINavigationItem"; title = "Chanting Selection"; ObjectID = "bzg-iG-ztv"; */
+"bzg-iG-ztv.title" = "Chanting Selection";
+
+/* Class = "UILabel"; text = "ChantingTitleLabel"; ObjectID = "c3Q-3r-l9M"; */
+"c3Q-3r-l9M.text" = "ChantingTitleLabel";
+
+/* Class = "UILabel"; text = "SittingRow3"; ObjectID = "cEs-3a-929"; */
+"cEs-3a-929.text" = "SittingRow3";
+
+/* Class = "UITableViewController"; title = "Group Sitting Recordings"; ObjectID = "cJh-dg-Cfl"; */
+"cJh-dg-Cfl.title" = "Group Sitting Recordings";
+
+/* Class = "UINavigationItem"; title = "Group Sittings Near Me"; ObjectID = "cXu-81-f8B"; */
+"cXu-81-f8B.title" = "Group Sittings Near Me";
+
+/* Class = "UILabel"; text = "LabelRow4"; ObjectID = "cgw-bw-hSD"; */
+"cgw-bw-hSD.text" = "LabelRow4";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "cxf-oU-bjW"; */
+"cxf-oU-bjW.title" = "Back";
+
+/* Class = "UILabel"; text = "SittingTitleLabel"; ObjectID = "dGl-g0-rZl"; */
+"dGl-g0-rZl.text" = "SittingTitleLabel";
+
+/* Class = "UILabel"; text = "days of daily practice"; ObjectID = "dQw-80-z7H"; */
+"dQw-80-z7H.text" = "days of daily practice";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/osguide?raw"; ObjectID = "dsY-26-1JI"; */
+"dsY-26-1JI.text" = "https://www.dhamma.org/en/mobile/osguide?raw";
+
+/* Class = "UILabel"; text = "Courses"; ObjectID = "eGQ-kB-Qih"; */
+"eGQ-kB-Qih.text" = "Courses";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "eJQ-dS-Z7Z"; */
+"eJQ-dS-Z7Z.text" = "Contact Us";
+
+/* Class = "UINavigationController"; title = "GroupSitNav"; ObjectID = "egm-WM-9FE"; */
+"egm-WM-9FE.title" = "GroupSitNav";
+
+/* Class = "UILabel"; text = "Code of Discipline"; ObjectID = "eti-er-q3e"; */
+"eti-er-q3e.text" = "Code of Discipline";
+
+/* Class = "UINavigationItem"; title = "Audio Resources"; ObjectID = "ex8-aE-Bei"; */
+"ex8-aE-Bei.title" = "Audio Resources";
+
+/* Class = "UILabel"; text = "Discover course locations near you and locations worldwide"; ObjectID = "fCf-qh-5Ch"; */
+"fCf-qh-5Ch.text" = "Discover course locations near you and locations worldwide";
+
+/* Class = "UILabel"; text = "Discourse Summaries"; ObjectID = "fYv-Z6-OCi"; */
+"fYv-Z6-OCi.text" = "Discourse Summaries";
+
+/* Class = "UIViewController"; title = "Code of Conduct for Dhamma Servers"; ObjectID = "fcD-jk-DEm"; */
+"fcD-jk-DEm.title" = "Code of Conduct for Dhamma Servers";
+
+/* Class = "UILabel"; text = "6:00am - 7:00am"; ObjectID = "fqa-xD-qXn"; */
+"fqa-xD-qXn.text" = "6:00am - 7:00am";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "g46-6c-WOP"; */
+"g46-6c-WOP.title" = "Home";
+
+/* Class = "UILabel"; text = "Vipassana Meditation"; ObjectID = "g7i-uw-jnR"; */
+"g7i-uw-jnR.text" = "Vipassana Meditation";
+
+/* Class = "UITabBarItem"; title = "My Logbook"; ObjectID = "gIX-VO-kYb"; */
+"gIX-VO-kYb.title" = "My Logbook";
+
+/* Class = "UITabBarController"; title = "Old Student Tab Bar"; ObjectID = "gKG-M6-evh"; */
+"gKG-M6-evh.title" = "Old Student Tab Bar";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "gKg-1F-Jdu"; */
+"gKg-1F-Jdu.title" = "Back";
+
+/* Class = "UILabel"; text = "Jul 22 - Jul 29"; ObjectID = "guh-CK-bjm"; */
+"guh-CK-bjm.text" = "Jul 22 - Jul 29";
+
+/* Class = "UINavigationItem"; title = "Dana"; ObjectID = "gzZ-by-v66"; */
+"gzZ-by-v66.title" = "Dana";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "h7E-hf-f5N"; */
+"h7E-hf-f5N.title" = "Back";
+
+/* Class = "UITabBarItem"; title = "Courses"; ObjectID = "hUu-jq-gtS"; */
+"hUu-jq-gtS.title" = "Courses";
+
+/* Class = "UILabel"; text = "Track your morning and evening meditation sittings"; ObjectID = "hXd-9g-yqp"; */
+"hXd-9g-yqp.text" = "Track your morning and evening meditation sittings";
+
+/* Class = "UILabel"; text = "DiscourseTitleLabel"; ObjectID = "hqu-Bd-DFP"; */
+"hqu-Bd-DFP.text" = "DiscourseTitleLabel";
+
+/* Class = "UINavigationItem"; title = "What is Vipassana?"; ObjectID = "hxu-qJ-ktk"; */
+"hxu-qJ-ktk.title" = "What is Vipassana?";
+
+/* Class = "UINavigationItem"; title = "Code of Discipline"; ObjectID = "i1F-0B-LHH"; */
+"i1F-0B-LHH.title" = "Code of Discipline";
+
+/* Class = "UILabel"; text = "LabelRow3"; ObjectID = "ifH-17-J0r"; */
+"ifH-17-J0r.text" = "LabelRow3";
+
+/* Class = "UITableViewSection"; headerTitle = "Discourse Recordings"; ObjectID = "itx-U3-tUK"; */
+"itx-U3-tUK.headerTitle" = "Discourse Recordings";
+
+/* Class = "UILabel"; text = "Location where course was taken"; ObjectID = "jnn-sy-4XW"; */
+"jnn-sy-4XW.text" = "Location where course was taken";
+
+/* Class = "UINavigationItem"; title = "Locations"; ObjectID = "kGe-mB-FkN"; */
+"kGe-mB-FkN.title" = "Locations";
+
+/* Class = "UITableViewController"; title = "Morning Chantings"; ObjectID = "kLK-2b-d3h"; */
+"kLK-2b-d3h.title" = "Morning Chantings";
+
+/* Class = "UILabel"; text = "As taught by S.N. Goenka"; ObjectID = "kWM-uv-Voc"; */
+"kWM-uv-Voc.text" = "As taught by S.N. Goenka";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "kan-It-L1T"; */
+"kan-It-L1T.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "Questions & Answers"; ObjectID = "kau-E6-oqv"; */
+"kau-E6-oqv.title" = "Questions & Answers";
+
+/* Class = "UITextField"; placeholder = "MM/YYYY"; ObjectID = "kgO-HE-oYE"; */
+"kgO-HE-oYE.placeholder" = "MM/YYYY";
+
+/* Class = "UINavigationItem"; title = "Vipassana Meditation"; ObjectID = "lH7-qi-Xl4"; */
+"lH7-qi-Xl4.title" = "Vipassana Meditation";
+
+/* Class = "UINavigationItem"; title = "Recording Selection"; ObjectID = "lMB-ej-lsm"; */
+"lMB-ej-lsm.title" = "Recording Selection";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "m0G-MG-KAp"; */
+"m0G-MG-KAp.title" = "Back";
+
+/* Class = "UILabel"; text = "Old Student References"; ObjectID = "m3W-14-5uw"; */
+"m3W-14-5uw.text" = "Old Student References";
+
+/* Class = "UILabel"; text = "Jul 29"; ObjectID = "mTI-48-1sa"; */
+"mTI-48-1sa.text" = "Jul 29";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "mtV-VY-MjA"; */
+"mtV-VY-MjA.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Welcome Old Student"; ObjectID = "n2K-3Y-Uxv"; */
+"n2K-3Y-Uxv.text" = "Welcome Old Student";
+
+/* Class = "UITableViewController"; title = "Settings"; ObjectID = "nKe-gK-sZM"; */
+"nKe-gK-sZM.title" = "Settings";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "nQ7-iP-DiH"; */
+"nQ7-iP-DiH.title" = "Back";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "ntS-ii-Ux4"; */
+"ntS-ii-Ux4.title" = "Back";
+
+/* Class = "UITableViewController"; title = "About"; ObjectID = "o1m-C1-nsz"; */
+"o1m-C1-nsz.title" = "About";
+
+/* Class = "UIButton"; normalTitle = "Clear Logbook History"; ObjectID = "oH6-4h-1lI"; */
+"oH6-4h-1lI.normalTitle" = "Clear Logbook History";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/vipassana?raw"; ObjectID = "oWI-tg-8Sp"; */
+"oWI-tg-8Sp.text" = "https://www.dhamma.org/en/mobile/vipassana?raw";
+
+/* Class = "UINavigationItem"; title = "Group Sitting Recordings"; ObjectID = "ond-qT-xJr"; */
+"ond-qT-xJr.title" = "Group Sitting Recordings";
+
+/* Class = "UITabBarItem"; title = "Old Student Guide"; ObjectID = "owH-hM-KC6"; */
+"owH-hM-KC6.title" = "Old Student Guide";
+
+/* Class = "UILabel"; text = "Courses"; ObjectID = "oy2-2m-AOo"; */
+"oy2-2m-AOo.text" = "Courses";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "p6D-4d-AbK"; */
+"p6D-4d-AbK.title" = "Back";
+
+/* Class = "UITableViewSection"; footerTitle = "Dhamma.org does not collect this data. All logged data is only stored locally on your device."; ObjectID = "pAZ-Zg-ZPU"; */
+"pAZ-Zg-ZPU.footerTitle" = "Dhamma.org does not collect this data. All logged data is only stored locally on your device.";
+
+/* Class = "UITableViewSection"; headerTitle = "Logbook Settings"; ObjectID = "pAZ-Zg-ZPU"; */
+"pAZ-Zg-ZPU.headerTitle" = "Logbook Settings";
+
+/* Class = "UILabel"; text = "in the tradition of Sayagyi U Ba Khin"; ObjectID = "pJv-ve-UaL"; */
+"pJv-ve-UaL.text" = "in the tradition of Sayagyi U Ba Khin";
+
+/* Class = "UITextField"; placeholder = "Your email address"; ObjectID = "pOk-zt-xqL"; */
+"pOk-zt-xqL.placeholder" = "Your email address";
+
+/* Class = "UITextField"; placeholder = "Old Student Username"; ObjectID = "pWF-Tg-4Ry"; */
+"pWF-Tg-4Ry.placeholder" = "Old Student Username";
+
+/* Class = "UITextField"; placeholder = "Old Student Password"; ObjectID = "q0y-vs-1dG"; */
+"q0y-vs-1dG.placeholder" = "Old Student Password";
+
+/* Class = "UILabel"; text = "Old Student Guide"; ObjectID = "qec-D4-4lE"; */
+"qec-D4-4lE.text" = "Old Student Guide";
+
+/* Class = "UILabel"; text = "Download more recordings"; ObjectID = "qfF-rA-d28"; */
+"qfF-rA-d28.text" = "Download more recordings";
+
+/* Class = "UILabel"; text = "Search and apply for Vipassana Meditation courses"; ObjectID = "qnG-TZ-oKP"; */
+"qnG-TZ-oKP.text" = "Search and apply for Vipassana Meditation courses";
+
+/* Class = "UINavigationController"; title = "NSMoreNav"; ObjectID = "rDX-Vs-Ubi"; */
+"rDX-Vs-Ubi.title" = "NSMoreNav";
+
+/* Class = "UILabel"; text = "Two one-hour sittings"; ObjectID = "rPu-Ny-er5"; */
+"rPu-Ny-er5.text" = "Two one-hour sittings";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "rYc-k2-HCV"; */
+"rYc-k2-HCV.text" = "Logout";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/10-day/dsum?raw"; ObjectID = "rtn-es-wCR"; */
+"rtn-es-wCR.text" = "https://www.dhamma.org/en/mobile/10-day/dsum?raw";
+
+/* Class = "UILabel"; text = "Group Sittings Near Me"; ObjectID = "s9o-i1-RTR"; */
+"s9o-i1-RTR.text" = "Group Sittings Near Me";
+
+/* Class = "UINavigationItem"; title = "Dhamma Service"; ObjectID = "sTt-8S-KS4"; */
+"sTt-8S-KS4.title" = "Dhamma Service";
+
+/* Class = "UINavigationController"; title = "OSLogbookNav"; ObjectID = "sfr-zx-dNs"; */
+"sfr-zx-dNs.title" = "OSLogbookNav";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "sy2-ef-nLX"; */
+"sy2-ef-nLX.text" = "Username";
+
+/* Class = "UITableViewController"; title = "Language Selection"; ObjectID = "t1D-u3-fyJ"; */
+"t1D-u3-fyJ.title" = "Language Selection";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "t5D-qe-5OD"; */
+"t5D-qe-5OD.title" = "Back";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "tFI-Nm-wwV"; */
+"tFI-Nm-wwV.title" = "Back";
+
+/* Class = "UIViewController"; title = "Art of Living"; ObjectID = "uTC-3q-HMx"; */
+"uTC-3q-HMx.title" = "Art of Living";
+
+/* Class = "UILabel"; text = "Mini Anapana Meditation"; ObjectID = "uav-hb-Mhd"; */
+"uav-hb-Mhd.text" = "Mini Anapana Meditation";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "usZ-dh-izd"; */
+"usZ-dh-izd.text" = "About";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "uzd-Ey-EpJ"; */
+"uzd-Ey-EpJ.title" = "Back";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "v3J-T2-GTQ"; */
+"v3J-T2-GTQ.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Version 1.2.0"; ObjectID = "vAs-Sz-DHa"; */
+"vAs-Sz-DHa.normalTitle" = "Version 1.2.0";
+
+/* Class = "UILabel"; text = "Satipatthana Sutta"; ObjectID = "wA5-ZH-Rxv"; */
+"wA5-ZH-Rxv.text" = "Satipatthana Sutta";
+
+/* Class = "UILabel"; text = "Name of the teacher"; ObjectID = "wcm-3x-Ze6"; */
+"wcm-3x-Ze6.text" = "Name of the teacher";
+
+/* Class = "UILabel"; text = "LabelRow4"; ObjectID = "wt6-NY-4f5"; */
+"wt6-NY-4f5.text" = "LabelRow4";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "x0L-PU-VgQ"; */
+"x0L-PU-VgQ.title" = "Back";
+
+/* Class = "UITableViewController"; title = "Discourse Recordings"; ObjectID = "x3D-n0-TmA"; */
+"x3D-n0-TmA.title" = "Discourse Recordings";
+
+/* Class = "UITableViewSection"; headerTitle = "Mini Anapana Meditation"; ObjectID = "x7h-Wf-7GW"; */
+"x7h-Wf-7GW.headerTitle" = "Mini Anapana Meditation";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "xL3-xv-ZBS"; */
+"xL3-xv-ZBS.title" = "Back";
+
+/* Class = "UILabel"; text = "Audio Resources"; ObjectID = "xLI-4L-bKS"; */
+"xLI-4L-bKS.text" = "Audio Resources";
+
+/* Class = "UILabel"; text = "Special Chantings"; ObjectID = "xeU-Vl-oVz"; */
+"xeU-Vl-oVz.text" = "Special Chantings";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/privacy?raw"; ObjectID = "xf7-uC-b1x"; */
+"xf7-uC-b1x.text" = "https://www.dhamma.org/en/mobile/privacy?raw";
+
+/* Class = "UILabel"; text = "Locations"; ObjectID = "xk3-jm-SVr"; */
+"xk3-jm-SVr.text" = "Locations";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "xmK-LI-rCZ"; */
+"xmK-LI-rCZ.title" = "Back";
+
+/* Class = "UITableViewSection"; headerTitle = "Language Settings"; ObjectID = "xrm-id-Ejb"; */
+"xrm-id-Ejb.headerTitle" = "Language Settings";
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "y5P-37-39U"; */
+"y5P-37-39U.text" = "Select Language";
+
+/* Class = "UIViewController"; title = "Locations"; ObjectID = "yDf-IZ-t7b"; */
+"yDf-IZ-t7b.title" = "Locations";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "yn5-MY-JqD"; */
+"yn5-MY-JqD.title" = "About";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "z0c-eT-3Og"; */
+"z0c-eT-3Og.title" = "Back";
+
+/* Class = "UITableViewController"; title = "Old Student References"; ObjectID = "zNA-Vh-Qkc"; */
+"zNA-Vh-Qkc.title" = "Old Student References";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "zTG-Io-jDW"; */
+"zTG-Io-jDW.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Discover course locations near you and locations worldwide"; ObjectID = "zU9-Of-QAj"; */
+"zU9-Of-QAj.text" = "Discover course locations near you and locations worldwide";
+
+/* Class = "UIViewController"; title = "SplashScreen"; ObjectID = "zcD-gd-OSe"; */
+"zcD-gd-OSe.title" = "SplashScreen";
+
+/* Class = "UILabel"; text = "Discourse recordings"; ObjectID = "zcL-rX-FBD"; */
+"zcL-rX-FBD.text" = "Discourse recordings";
+
+/* Class = "UILabel"; text = "https://www.dhamma.org/en/mobile/dana?raw"; ObjectID = "zce-Si-40K"; */
+"zce-Si-40K.text" = "https://www.dhamma.org/en/mobile/dana?raw";

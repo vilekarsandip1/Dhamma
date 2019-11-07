@@ -8,3 +8,4 @@ D:\Backup\RnD\FindReplace\FindReplace\FindReplace\obj\Release\FindReplace.exe.ma
 D:\Backup\RnD\FindReplace\FindReplace\FindReplace\obj\Release\FindReplace.application
 D:\Backup\RnD\FindReplace\FindReplace\FindReplace\obj\Release\FindReplace.exe
 D:\Backup\RnD\FindReplace\FindReplace\FindReplace\obj\Release\FindReplace.pdb
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\obj\Release\FindReplace.csprojAssemblyReference.cache

@@ -1,0 +1,69 @@
+/* percentageOfString */
+"% of " = "% of ";
+
+/* ConnectionFailedTitle */
+"Connection failed" = "Connection failed";
+
+/* SendMailAlertTitle */
+"Could Not Send Email" = "Could Not Send Email";
+
+/* ConsecutiveDays */
+"Days of daily practice" = "Days of daily practice";
+
+/* DeleteLogbookEntries? */
+"您要刪除日誌簿內所有的紀錄嗎？" = "您要刪除日誌簿內所有的紀錄嗎？";
+
+/* DownloadFailedTitle */
+"下載失敗" = "下載失敗";
+
+/* OldOrNewStudent? */
+"您是否已完成一次由葛印卡老師或經他指派的助理老師所指導的十日課程？" = "您是否已完成一次由葛印卡老師或經他指派的助理老師所指導的十日課程？";
+
+/* sittingDurationFor30Days */
+"過去卅天紀錄的時數" = "過去卅天紀錄的時數";
+
+/* sittingDurationForWeek */
+"過去一週紀錄的時數" = "過去一週紀錄的時數";
+
+/* DownloadInProgress */
+"In progress" = "In progress";
+
+/* LogbookDisabled */
+"紀錄不成功" = "紀錄不成功";
+
+/* LoginFailedTitle */
+"Login failed" = "Login failed";
+
+/* ConnectionFailedMessage */
+"您似乎沒有連上網路，請重試。" = "您似乎沒有連上網路，請重試。";
+
+/* No */
+"否 / 無" = "否 / 無";
+
+/* Ok */
+"好" = "好";
+
+/* SendMailAlertMessage */
+"Please check e-mail configuration and try again. You can reach us at: mobile-app-support@dhamma.org" = "Please check e-mail configuration and try again. You can reach us at: mobile-app-support@dhamma.org";
+
+/* LanguageChangeRestartApp */
+"Setting for language change is saved. Please restart app for language change to take effect." = "Setting for language change is saved. Please restart app for language change to take effect.";
+
+/* DownloadFailedMessage */
+"The download for the requested recording failed or was canceled. Please try again." = "The download for the requested recording failed or was canceled. Please try again.";
+
+/* LoginFailedMessage */
+"The username or password entered was incorrect. Please try again." = "The username or password entered was incorrect. Please try again.";
+
+/* LogbookDisabledDescription */
+"點擊“更多”（右鍵）並選擇“設定”，開始存入您的靜坐紀錄" = "點擊“更多”（右鍵）並選擇“設定”，開始存入您的靜坐紀錄";
+
+/* ConsecutiveDays */
+"Two one-hour sittings daily" = "Two one-hour sittings daily";
+
+/* Yes */
+"是 / 無" = "是 / 無";
+
+/* SendMailAlertMessage */
+"Your device could not send e-mail.  Please check e-mail configuration and try again." = "Your device could not send e-mail.  Please check e-mail configuration and try again.";
+

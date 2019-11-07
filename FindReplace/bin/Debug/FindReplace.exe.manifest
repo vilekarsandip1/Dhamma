@@ -49,17 +49,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CD+tqiz/CtQtxwFQkZKR0ki+bZVkX4qJosRkGAzfBis=</dsig:DigestValue>
+        <dsig:DigestValue>+q2geNXcIOtZbrVZM+/pa0kwF6D4DOlM8mrqDaJ8+dQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="FindReplace.exe.config" size="1244">
+  <file name="FindReplace.exe.config" size="1389">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/n1fldpKCD16HgUoPugeUTCOM0l5Mk5mXWOUiogfz5Y=</dsig:DigestValue>
+      <dsig:DigestValue>MJTZFMbvje7Up2v5txjztd+eXoibNmGsLRGN5iNSFpQ=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
