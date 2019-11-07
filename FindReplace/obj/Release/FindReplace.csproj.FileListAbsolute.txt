@@ -1,0 +1,10 @@
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\bin\Release\FindReplace.exe.config
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\bin\Release\FindReplace.exe.manifest
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\bin\Release\FindReplace.application
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\bin\Release\FindReplace.exe
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\bin\Release\FindReplace.pdb
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\obj\Release\FindReplace.csproj.CoreCompileInputs.cache
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\obj\Release\FindReplace.exe.manifest
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\obj\Release\FindReplace.application
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\obj\Release\FindReplace.exe
+D:\Backup\RnD\FindReplace\FindReplace\FindReplace\obj\Release\FindReplace.pdb

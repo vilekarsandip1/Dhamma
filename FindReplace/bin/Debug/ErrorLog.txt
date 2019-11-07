@@ -1,0 +1,858 @@
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: --- Class = "UILabel"; text = "https://discourses.dhamma.org/recordings?mobile_app=true&languages%5Biso_code%5D=en"; ObjectID = "1tH-Ro-oTm"; ---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.MobileApp.str_sitting_time","string":"00:00","translation":"\u003cspan style=\"font-family: Verdana, sans-serif; font-size: 11px;\"\u003e00:00\u003c/span\u003e"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.MobileApp.str_default_time_pm","string":"12:00","translation":"12:00"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/locations/mobile_directory?raw","string":"https://www.dhamma.org/en/locations/mobile_directory?raw","translation":"https://www.dhamma.org/zh-HANT/locations/mobile_directory?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/goenka?raw","string":"https://www.dhamma.org/en/mobile/goenka?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/goenka?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile_maps?raw","string":"https://www.dhamma.org/en/mobile_maps?raw","translation":"https://www.dhamma.org/zh-HANT/mobile_maps?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/code?raw","string":"https://www.dhamma.org/en/mobile/code?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/code?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/courses/mobile_glossary?raw","string":"https://www.dhamma.org/en/courses/mobile_glossary?raw","translation":"https://www.dhamma.org/zh-HANT/courses/mobile_glossary?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/courses/mobile_search?raw","string":"https://www.dhamma.org/en/courses/mobile_search?raw","translation":"https://www.dhamma.org/zh-HANT/courses/mobile_search?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/service?raw","string":"https://www.dhamma.org/en/mobile/service?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/service?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/art?raw","string":"https://www.dhamma.org/en/mobile/art?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/art?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/home?raw","string":"https://www.dhamma.org/en/mobile/home?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/home?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/vipassana?raw","string":"https://www.dhamma.org/en/mobile/vipassana?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/vipassana?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/dscode?raw","string":"https://www.dhamma.org/en/mobile/dscode?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/dscode?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/osguide?raw","string":"https://www.dhamma.org/en/mobile/osguide?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/osguide?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/privacy?raw","string":"https://www.dhamma.org/en/mobile/privacy?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/privacy?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/10-day/dsum?raw","string":"https://www.dhamma.org/en/mobile/10-day/dsum?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/10-day/dsum?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/qanda?raw","string":"https://www.dhamma.org/en/mobile/qanda?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/qanda?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/dana?raw","string":"https://www.dhamma.org/en/mobile/dana?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/dana?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/chain?raw","string":"https://www.dhamma.org/en/mobile/chain?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/chain?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.MobileApp.playstore_features_OS_1","string":"If you have completed a 10-day course in this tradition then you can enter the Old Student section of this App to access the following:","translation":"如果您已經完成一期本傳承的十日課程，即可進入本程式的舊生頁面，獲取以下內容："---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.CourseType","string":"Type:","translation":"類型 ："---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.Website.MiniAnapana.Guidelines.Note","string":"\u003cstrong\u003eNote:\u003c/strong\u003e Participants who attend Mini Anapana sessions will not be considered as \"Old Students\" in this tradition. They can not participate in any programs designated as \"For Old Students only\".","translation":"\u003cstrong\u003e附住：\u003c/strong\u003e 參加學習過迷你觀息法的人不算「此傳承的舊生」。他們不能參加任何註明「限舊生」參加的活動。"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/localgroupsittings/mobile_directory?raw","string":"https://www.dhamma.org/en/localgroupsittings/mobile_directory?raw","translation":"https://www.dhamma.org/zh-HANT/localgroupsittings/mobile_directory?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/localgroupsittings/mobile_maps?raw","string":"https://www.dhamma.org/en/localgroupsittings/mobile_maps?raw","translation":"https://www.dhamma.org/zh-HANT/localgroupsittings/mobile_maps?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:47:41 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/locations/mobile_events?raw","string":"https://www.dhamma.org/en/locations/mobile_events?raw","translation":"https://www.dhamma.org/zh-HANT/locations/mobile_events?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:30 PM
+-----------------------------------------------------------
+Message: --- Class = "UILabel"; text = "https://discourses.dhamma.org/recordings?mobile_app=true&languages%5Biso_code%5D=en"; ObjectID = "1tH-Ro-oTm"; ---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.MobileApp.str_sitting_time","string":"00:00","translation":"\u003cspan style=\"font-family: Verdana, sans-serif; font-size: 11px;\"\u003e00:00\u003c/span\u003e"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.MobileApp.str_default_time_pm","string":"12:00","translation":"12:00"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/locations/mobile_directory?raw","string":"https://www.dhamma.org/en/locations/mobile_directory?raw","translation":"https://www.dhamma.org/zh-HANT/locations/mobile_directory?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/goenka?raw","string":"https://www.dhamma.org/en/mobile/goenka?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/goenka?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile_maps?raw","string":"https://www.dhamma.org/en/mobile_maps?raw","translation":"https://www.dhamma.org/zh-HANT/mobile_maps?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/code?raw","string":"https://www.dhamma.org/en/mobile/code?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/code?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/courses/mobile_glossary?raw","string":"https://www.dhamma.org/en/courses/mobile_glossary?raw","translation":"https://www.dhamma.org/zh-HANT/courses/mobile_glossary?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/courses/mobile_search?raw","string":"https://www.dhamma.org/en/courses/mobile_search?raw","translation":"https://www.dhamma.org/zh-HANT/courses/mobile_search?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/service?raw","string":"https://www.dhamma.org/en/mobile/service?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/service?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/art?raw","string":"https://www.dhamma.org/en/mobile/art?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/art?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/home?raw","string":"https://www.dhamma.org/en/mobile/home?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/home?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/vipassana?raw","string":"https://www.dhamma.org/en/mobile/vipassana?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/vipassana?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/dscode?raw","string":"https://www.dhamma.org/en/mobile/dscode?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/dscode?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/osguide?raw","string":"https://www.dhamma.org/en/mobile/osguide?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/osguide?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/privacy?raw","string":"https://www.dhamma.org/en/mobile/privacy?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/privacy?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/10-day/dsum?raw","string":"https://www.dhamma.org/en/mobile/10-day/dsum?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/10-day/dsum?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/qanda?raw","string":"https://www.dhamma.org/en/mobile/qanda?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/qanda?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/dana?raw","string":"https://www.dhamma.org/en/mobile/dana?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/dana?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/chain?raw","string":"https://www.dhamma.org/en/mobile/chain?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/chain?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.MobileApp.playstore_features_OS_1","string":"If you have completed a 10-day course in this tradition then you can enter the Old Student section of this App to access the following:","translation":"如果您已經完成一期本傳承的十日課程，即可進入本程式的舊生頁面，獲取以下內容："---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.CourseType","string":"Type:","translation":"類型 ："---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.Website.MiniAnapana.Guidelines.Note","string":"\u003cstrong\u003eNote:\u003c/strong\u003e Participants who attend Mini Anapana sessions will not be considered as \"Old Students\" in this tradition. They can not participate in any programs designated as \"For Old Students only\".","translation":"\u003cstrong\u003e附住：\u003c/strong\u003e 參加學習過迷你觀息法的人不算「此傳承的舊生」。他們不能參加任何註明「限舊生」參加的活動。"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/localgroupsittings/mobile_directory?raw","string":"https://www.dhamma.org/en/localgroupsittings/mobile_directory?raw","translation":"https://www.dhamma.org/zh-HANT/localgroupsittings/mobile_directory?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/localgroupsittings/mobile_maps?raw","string":"https://www.dhamma.org/en/localgroupsittings/mobile_maps?raw","translation":"https://www.dhamma.org/zh-HANT/localgroupsittings/mobile_maps?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 03:50:31 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/locations/mobile_events?raw","string":"https://www.dhamma.org/en/locations/mobile_events?raw","translation":"https://www.dhamma.org/zh-HANT/locations/mobile_events?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 57
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:51:33 PM
+-----------------------------------------------------------
+Message: --- Class = "UILabel"; text = "https://discourses.dhamma.org/recordings?mobile_app=true&languages%5Biso_code%5D=en"; ObjectID = "1tH-Ro-oTm"; ---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 61
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.MobileApp.str_sitting_time","string":"00:00","translation":"\u003cspan style=\"font-family: Verdana, sans-serif; font-size: 11px;\"\u003e00:00\u003c/span\u003e"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.MobileApp.str_default_time_pm","string":"12:00","translation":"12:00"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/locations/mobile_directory?raw","string":"https://www.dhamma.org/en/locations/mobile_directory?raw","translation":"https://www.dhamma.org/zh-HANT/locations/mobile_directory?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/goenka?raw","string":"https://www.dhamma.org/en/mobile/goenka?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/goenka?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile_maps?raw","string":"https://www.dhamma.org/en/mobile_maps?raw","translation":"https://www.dhamma.org/zh-HANT/mobile_maps?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/code?raw","string":"https://www.dhamma.org/en/mobile/code?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/code?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/courses/mobile_glossary?raw","string":"https://www.dhamma.org/en/courses/mobile_glossary?raw","translation":"https://www.dhamma.org/zh-HANT/courses/mobile_glossary?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/courses/mobile_search?raw","string":"https://www.dhamma.org/en/courses/mobile_search?raw","translation":"https://www.dhamma.org/zh-HANT/courses/mobile_search?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/service?raw","string":"https://www.dhamma.org/en/mobile/service?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/service?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/art?raw","string":"https://www.dhamma.org/en/mobile/art?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/art?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/home?raw","string":"https://www.dhamma.org/en/mobile/home?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/home?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/vipassana?raw","string":"https://www.dhamma.org/en/mobile/vipassana?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/vipassana?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/dscode?raw","string":"https://www.dhamma.org/en/mobile/dscode?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/dscode?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/osguide?raw","string":"https://www.dhamma.org/en/mobile/osguide?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/osguide?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/privacy?raw","string":"https://www.dhamma.org/en/mobile/privacy?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/privacy?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/10-day/dsum?raw","string":"https://www.dhamma.org/en/mobile/10-day/dsum?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/10-day/dsum?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/qanda?raw","string":"https://www.dhamma.org/en/mobile/qanda?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/qanda?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/dana?raw","string":"https://www.dhamma.org/en/mobile/dana?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/dana?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/mobile/chain?raw","string":"https://www.dhamma.org/en/mobile/chain?raw","translation":"https://www.dhamma.org/zh-HANT/mobile/chain?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.MobileApp.playstore_features_OS_1","string":"If you have completed a 10-day course in this tradition then you can enter the Old Student section of this App to access the following:","translation":"如果您已經完成一期本傳承的十日課程，即可進入本程式的舊生頁面，獲取以下內容："---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 61
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.CourseType","string":"Type:","translation":"類型 ："---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 61
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Phrase.Website.MiniAnapana.Guidelines.Note","string":"\u003cstrong\u003eNote:\u003c/strong\u003e Participants who attend Mini Anapana sessions will not be considered as \"Old Students\" in this tradition. They can not participate in any programs designated as \"For Old Students only\".","translation":"\u003cstrong\u003e附住：\u003c/strong\u003e 參加學習過迷你觀息法的人不算「此傳承的舊生」。他們不能參加任何註明「限舊生」參加的活動。"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 61
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/localgroupsittings/mobile_directory?raw","string":"https://www.dhamma.org/en/localgroupsittings/mobile_directory?raw","translation":"https://www.dhamma.org/zh-HANT/localgroupsittings/mobile_directory?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/localgroupsittings/mobile_maps?raw","string":"https://www.dhamma.org/en/localgroupsittings/mobile_maps?raw","translation":"https://www.dhamma.org/zh-HANT/localgroupsittings/mobile_maps?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
+Time: 30/10/2019 04:52:20 PM
+-----------------------------------------------------------
+Message: ---"portal_key":"Webview.https://www.dhamma.org/locations/mobile_events?raw","string":"https://www.dhamma.org/en/locations/mobile_events?raw","translation":"https://www.dhamma.org/zh-HANT/locations/mobile_events?raw"---
+Message: Specified argument was out of the range of valid values.
+Parameter name: index
+StackTrace:    at System.Linq.Enumerable.ElementAt[TSource](IEnumerable`1 source, Int32 index)
+   at FindReplace.Program.ExtractFromFile(String fileContent, String startString, String endString, Char charSplitter, Char charSplitOn) in D:\Backup\RnD\FindReplace\FindReplace\FindReplace\Program.cs:line 59
+Source: System.Core
+TargetSite: TSource ElementAt[TSource](System.Collections.Generic.IEnumerable`1[TSource], Int32)
+-----------------------------------------------------------
+
