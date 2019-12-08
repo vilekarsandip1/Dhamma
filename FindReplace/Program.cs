@@ -4,6 +4,7 @@ using System.Configuration;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
+using Newtonsoft.Json.Linq;
 
 namespace FindReplace
 {
@@ -21,10 +22,16 @@ namespace FindReplace
 
                 using (var rtf = new RichTextBox())
                 {
-                    rtf.Rtf = File.ReadAllText(ConfigurationManager.AppSettings["TranslationFilePath"]);
-                    var sTransContent = rtf.Text;
+                    //rtf.Rtf = File.ReadAllText(ConfigurationManager.AppSettings["TranslationFilePath"]);
+                    //var sTransContent = rtf.Text;
 
-                    transDictionary = ExtractFromFile(sTransContent, "{", "}", ',', ':');
+                    //transDictionary = ExtractFromFile(sTransContent, "{", "}", ',', ':');
+                    
+                    var json = File.ReadAllText(ConfigurationManager.AppSettings["TranslationFilePath"]);
+                    var parsed = JObject.Parse(json);
+
+                    transDictionary = ExtractFromFile(json, "{", "}", ',', ':');
+
                 }
 
                 foreach (var keyValue in transDictionary)
