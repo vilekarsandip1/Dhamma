@@ -1,10 +1,9 @@
-﻿using System;
+﻿using Newtonsoft.Json.Linq;
+using System;
 using System.Collections.Generic;
 using System.Configuration;
 using System.IO;
-using System.Linq;
 using System.Windows.Forms;
-using Newtonsoft.Json.Linq;
 
 namespace FindReplace
 {
@@ -14,24 +13,44 @@ namespace FindReplace
         {
             try
             {
-                //Dictionary<string, string> mainDictionary = new Dictionary<string, string>();
                 var sMainContent = File.ReadAllText(ConfigurationManager.AppSettings["MainStringsFilePath"]);
-                //mainDictionary = ExtractFromFile(sMainContent, "/*", "*/", ';', '=');
-
                 Dictionary<string, string> transDictionary;
 
                 using (var rtf = new RichTextBox())
                 {
-                    //rtf.Rtf = File.ReadAllText(ConfigurationManager.AppSettings["TranslationFilePath"]);
-                    //var sTransContent = rtf.Text;
-
-                    //transDictionary = ExtractFromFile(sTransContent, "{", "}", ',', ':');
-                    
                     var json = File.ReadAllText(ConfigurationManager.AppSettings["TranslationFilePath"]);
                     var parsed = JObject.Parse(json);
 
-                    transDictionary = ExtractFromFile(json, "{", "}", ',', ':');
+                    string selectToken = ConfigurationManager.AppSettings["selectToken"] + ".translations.*";
 
+                    var squery1 = parsed.SelectTokens(selectToken);
+
+                    transDictionary = new Dictionary<string, string>();
+                    string Key = string.Empty;
+                    string Value = string.Empty;
+
+                    foreach (var item in squery1)
+                    {
+                        foreach (JProperty x in (JToken)item)
+                        { // if 'obj' is a JObject
+                            string key = x.Name;
+                            JToken value = x.Value;
+
+                            if (key == "string")
+                            {
+                                Key = value.ToString();
+                            }
+                            if (key == "translation")
+                            {
+                                Value = value.ToString();
+
+                                if (!transDictionary.ContainsKey(Key))
+                                {
+                                    transDictionary.Add(Key, Value);
+                                }
+                            }
+                        }
+                    }
                 }
 
                 foreach (var keyValue in transDictionary)
@@ -47,70 +66,6 @@ namespace FindReplace
             {
                 LogError(ex);
             }
-        }
-
-        private static Dictionary<string, string> ExtractFromFile(string fileContent, string startString, string endString, char charSplitter, char charSplitOn)
-        {
-            var content = fileContent;
-            var s = string.Empty;
-            Dictionary<string, string> dictionary = new Dictionary<string, string>();
-            var sBlocks = ExtractFromBody(content, startString, endString);
-
-            foreach (var sBlock in sBlocks)
-            {
-                var dictionary1 = SplitString(sBlock, charSplitter, charSplitOn);
-
-                try
-                {
-                    if (!dictionary.ContainsKey(dictionary1.ElementAt(1).Value))
-                    {
-                        dictionary.Add(dictionary1.ElementAt(1).Value, dictionary1.ElementAt(2).Value);
-                    }
-                }
-                catch (Exception ex)
-                {
-                    //log errors to log file
-                    LogError(ex, "---" + sBlock + "---");
-                }
-            }
-
-            return dictionary;
-        }
-        private static IEnumerable<string> ExtractFromBody(string body, string start, string end)
-        {
-            var matched = new List<string>();
-            var exit = false;
-            while (!exit)
-            {
-                if (body == null) continue;
-                var indexStart = body.IndexOf(start);
-
-                if (indexStart != -1)
-                {
-                    var indexEnd = indexStart + body.Substring(indexStart).IndexOf(end);
-
-                    matched.Add(body.Substring(indexStart + start.Length, indexEnd - indexStart - start.Length));
-
-                    body = body.Substring(indexEnd + end.Length);
-                }
-                else
-                {
-                    exit = true;
-                }
-            }
-
-            return matched;
-        }
-
-        public static Dictionary<string, string> SplitString(string input, char charSplitter, char charSplitOn)
-        {
-            var output = input
-                .Split(charSplitter)
-                .Select(part => part.Split(charSplitOn))
-                .Where(part => part.Length == 2)
-                .ToDictionary(sp => sp[0], sp => sp[1]);
-
-            return output;
         }
 
         private static void LogError(Exception ex, string sExtraError = "")
