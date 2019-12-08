@@ -15,51 +15,44 @@ namespace FindReplace
             {
                 var sMainContent = File.ReadAllText(ConfigurationManager.AppSettings["MainStringsFilePath"]);
                 Dictionary<string, string> transDictionary;
+                var json = File.ReadAllText(ConfigurationManager.AppSettings["TranslationFilePath"]);
+                var parsed = JObject.Parse(json);
+                string selectToken = ConfigurationManager.AppSettings["selectToken"] + ".translations.*";
+                var squery1 = parsed.SelectTokens(selectToken);
 
-                using (var rtf = new RichTextBox())
+                transDictionary = new Dictionary<string, string>();
+                string Key = string.Empty;
+                string Value = string.Empty;
+
+                foreach (var item in squery1)
                 {
-                    var json = File.ReadAllText(ConfigurationManager.AppSettings["TranslationFilePath"]);
-                    var parsed = JObject.Parse(json);
+                    foreach (JProperty x in (JToken)item)
+                    { // if 'obj' is a JObject
+                        string key = x.Name;
+                        JToken value = x.Value;
 
-                    string selectToken = ConfigurationManager.AppSettings["selectToken"] + ".translations.*";
+                        if (key == "string")
+                        {
+                            Key = value.ToString();
+                        }
+                        if (key == "translation")
+                        {
+                            Value = value.ToString();
 
-                    var squery1 = parsed.SelectTokens(selectToken);
-
-                    transDictionary = new Dictionary<string, string>();
-                    string Key = string.Empty;
-                    string Value = string.Empty;
-
-                    foreach (var item in squery1)
-                    {
-                        foreach (JProperty x in (JToken)item)
-                        { // if 'obj' is a JObject
-                            string key = x.Name;
-                            JToken value = x.Value;
-
-                            if (key == "string")
+                            if (!transDictionary.ContainsKey(Key))
                             {
-                                Key = value.ToString();
-                            }
-                            if (key == "translation")
-                            {
-                                Value = value.ToString();
-
-                                if (!transDictionary.ContainsKey(Key))
-                                {
-                                    transDictionary.Add(Key, Value);
-                                }
+                                transDictionary.Add(Key, Value);
                             }
                         }
                     }
                 }
-
+                
                 foreach (var keyValue in transDictionary)
                 {
                     sMainContent = sMainContent.Replace(keyValue.Key, keyValue.Value);
                 }
 
                 var sAppPath = AppDomain.CurrentDomain.BaseDirectory;
-                //System.IO.File.WriteAllText(sAppPath + @"\Main_Translated_" + DateTime.Now.ToFileTime() + ".strings", sMainContent);
                 System.IO.File.WriteAllText(ConfigurationManager.AppSettings["TranslatedMainStringsFilePath"] + @"\Main_Translated_" + DateTime.Now.ToFileTime() + ".strings", sMainContent);
             }
             catch (Exception ex)
