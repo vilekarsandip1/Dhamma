@@ -65,7 +65,7 @@ namespace FindReplace
                 //sMainContent = output;
 
                 var sAppPath = AppDomain.CurrentDomain.BaseDirectory;
-                System.IO.File.WriteAllText(ConfigurationManager.AppSettings["TranslatedMainStringsFilePath"] + @"\Main_Translated_" + DateTime.Now.ToFileTime() + ".strings", sMainContent);
+                System.IO.File.WriteAllText(ConfigurationManager.AppSettings["TranslatedMainStringsFilePath"] + @"\Main_Translated_" + ConfigurationManager.AppSettings["selectToken"] + "_" + DateTime.Now.ToFileTime() + ".strings", sMainContent);
             }
             catch (Exception ex)
             {
