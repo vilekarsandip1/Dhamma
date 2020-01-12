@@ -14,6 +14,8 @@ namespace FindReplace
             try
             {
                 var sMainContent = File.ReadAllText(ConfigurationManager.AppSettings["MainStringsFilePath"]);
+                var output = "";
+
                 Dictionary<string, string> transDictionary;
                 var json = File.ReadAllText(ConfigurationManager.AppSettings["TranslationFilePath"]);
                 var parsed = JObject.Parse(json);
@@ -46,11 +48,21 @@ namespace FindReplace
                         }
                     }
                 }
+
                 
+
                 foreach (var keyValue in transDictionary)
                 {
-                    sMainContent = sMainContent.Replace(keyValue.Key, keyValue.Value);
+                    //sMainContent = sMainContent.Replace(keyValue.Key, keyValue.Value);
+
+                    var index = sMainContent.IndexOf(keyValue.Key, sMainContent.IndexOf(keyValue.Key) + 1);
+                
+                    if (index > 0)
+                    {
+                        sMainContent = sMainContent.Remove(index, Math.Min(keyValue.Key.Length, sMainContent.Length - index)).Insert(index, keyValue.Value);
+                    }
                 }
+                //sMainContent = output;
 
                 var sAppPath = AppDomain.CurrentDomain.BaseDirectory;
                 System.IO.File.WriteAllText(ConfigurationManager.AppSettings["TranslatedMainStringsFilePath"] + @"\Main_Translated_" + DateTime.Now.ToFileTime() + ".strings", sMainContent);
